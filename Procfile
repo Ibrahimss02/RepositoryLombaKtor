@@ -1,0 +1,1 @@
+web: build/install/repository_lomba_raion/bin/repository_lomba_raion
